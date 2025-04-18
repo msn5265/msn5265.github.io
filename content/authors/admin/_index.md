@@ -130,9 +130,9 @@ skills:
         percent: 50
         icon: table-cells
 
-
+---
 
 ## About Me
 
 I'm Maya Nagiub, an Applied Data Science major at Penn State with a minor in Security and Risk Analysis. This summer, I'll be joining IBM as an AI Engineer Intern. I've also worked across data science and IT roles at various different companies. I believe that data is most powerful when it's human-centered, ethically deployed, and used to drive meaningful impact. 
----
+
