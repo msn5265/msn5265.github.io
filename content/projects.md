@@ -4,20 +4,27 @@ date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-# Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - project
+      text: |-
+        Here's a selection of projects I've worked on:
+
+        ### Physics-Informed Neural Network for COVID-19 (Nittany AI Advance)
+        Along with a team of four others, I developed a PINN using the Susceptible-Exposed-Infected-Vaccinated compartmental model for tracking COVID-19 spread.
+
+        ### Analyzing Customer Satisfaction in Online Food Ordering 
+        Using a dataset from Kaggle, this project involved building and comparing multiple regression models to identify the key drivers of customer satisfaction. Within this project, I implemented ridge, lasso, and logistic regression techniques.
+
+        ### Centre County Economic Sector Analysis
+        As part of my role at the Penn State Office of Entrepreneurship and Commercialization, I was tasked with analyzing the performance of economic sectors within Centre County. I presented my results to various economic leaders within the county and made the case that funding for startups in the manufacturing sector should be increased.
+        
+
+        I'm always excited to collaborate and build things that matter!
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      columns: '1'
 ---
+
