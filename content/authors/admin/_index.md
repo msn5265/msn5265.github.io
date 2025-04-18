@@ -26,12 +26,12 @@ role: Data Science Student
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'nagiubmaya@gmail.com'
+    url: 'mailto:nagiubmaya@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/msn5265
   - icon: brands/linkedin
-    url: www.linkedin.com/in/maya-nagiub-32b8a2291
+    url: https://www.linkedin.com/in/maya-nagiub-32b8a2291
 
 interests:
   - Artificial Intelligence
