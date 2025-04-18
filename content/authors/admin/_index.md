@@ -122,7 +122,7 @@ skills:
         percent: 60
         icon: wrench-screwdriver
       - name: Active Directory
-        description: Identity & access management
+        description: ''
         percent: 50
         icon: server
       - name: Excel
