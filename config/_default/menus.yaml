@@ -14,5 +14,24 @@ main:
     url: projects/
     weight: 30
   - name: Coursework
-    url: coursework/
+    url: content/
     weight: 40    
+  - name: Discussions
+    url: coursework/discussions/
+    weight: 41
+    parent: Coursework
+
+  - name: Kritik Creations
+    url: coursework/kritik-creations/
+    weight: 42
+    parent: Coursework
+
+  - name: Individual Assignments
+    url: coursework/individual-assignments/
+    weight: 43
+    parent: Coursework
+
+  - name: Group Assignments
+    url: coursework/group-assignments/
+    weight: 44
+    parent: Coursework
