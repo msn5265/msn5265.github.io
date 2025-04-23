@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Discussions'
 date: 2024-05-19
 type: landing
 
@@ -11,7 +11,7 @@ sections:
     content:
       title: Discussion posts
       text: |-
-        Here are the discussion posts I was tasked with creating in IST110.
+        This section contains the discussion posts I was tasked with creating in IST110.
 
         ## L00 Discussion: Introduce Yourself
         In this assignment, we were instructed to introduce ourselves and identify what interests us most about IT. Below is my response:
