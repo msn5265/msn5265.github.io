@@ -20,18 +20,11 @@ main:
     url: coursework/discussions/
     weight: 41
     parent: Coursework
-
-  - name: Kritik Creations
-    url: coursework/kritik-creations/
-    weight: 42
-    parent: Coursework
-
   - name: Individual Assignments
     url: coursework/individual-assignments/
-    weight: 43
+    weight: 42
     parent: Coursework
-
   - name: Group Assignments
     url: coursework/group-assignments/
-    weight: 44
+    weight: 43
     parent: Coursework

@@ -9,7 +9,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: Discussion posts
+      title: Discussion Posts
       text: |-
         This section contains the discussion posts I was tasked with creating in IST110.
 

@@ -9,7 +9,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: Discussion Posts
+      title: Group Assignments
       text: |-
         This section contains the group assignments I was tasked with completing in IST110.
 
